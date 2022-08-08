@@ -1,5 +1,7 @@
 # Teleportation Cheats for Pwn Adventure 3: Pwnie Island
 
+![Pwn Adventure 3: Pwnie Island](pwnie-island.png)
+
 Teleportation cheats for Pwn Adventure 3: Pwnie Island. The cheats allow the player to teleport
 around (ie. modify X, Y, Z coordinates). The project is a Visual Studio Solution. It produces an
 injectable DLL that can be injected into the Pwn Adventure 3 process on Windows.
